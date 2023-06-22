@@ -1,6 +1,4 @@
 # Sample-Website-Tutorial
-**Project Name: HTML/CSS Practice Project**
-
 **Description:**
 
 This project showcases my proficiency in HTML and CSS by implementing a fully functional web page. It serves as a demonstration of my skills and understanding of front-end development principles.
